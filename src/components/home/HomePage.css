@@ -1,0 +1,80 @@
+/* src/components/HomePage.css */
+
+/* Hero Section Styles */
+.hero-section {
+    background-image: url('https://via.placeholder.com/1920x600'); /* Replace with your own image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero-section h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero-section p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero-section .btn {
+    padding: 12px 30px;
+    font-size: 1.25rem;
+    background-color: #007bff;
+    border: none;
+    text-transform: uppercase;
+  }
+  
+  .hero-section .btn:hover {
+    background-color: #0056b3;
+    cursor: pointer;
+  }
+  
+  /* Feature Section */
+  .feature-card img {
+    max-height: 200px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 1.25rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  /* Card Layout Styling */
+  .row-cols-1 .col {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 767px) {
+    .hero-section h1 {
+      font-size: 2rem;
+    }
+  
+    .hero-section p {
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .hero-section .btn {
+      width: 100%;
+      font-size: 1.125rem;
+    }
+  }
+  

@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": "7c57",
+      "employeeId": "001",
+      "employeeName": "Sayan",
+      "qualification": "B.Tech",
+      "email": "sayan@gmail.com",
+      "contact": "9087658907",
+      "gender": "Male"
+    },
+    {
+      "id": "6de2",
+      "employeeId": "002",
+      "employeeName": "Nava",
+      "qualification": "M.Tech",
+      "email": "nava@gmail.com",
+      "contact": "6746790654",
+      "gender": "Male"
+    },
+    {
+      "id": "dab6",
+      "employeeId": "003",
+      "employeeName": "Samay",
+      "qualification": "B.Tech",
+      "email": "samay@gmail.com",
+      "contact": "8976543768",
+      "gender": "Male"
+    },
+    {
+      "id": "a2f8",
+      "employeeId": "007",
+      "employeeName": "Abhinav",
+      "qualification": "B.Tech",
+      "email": "abhinav@gmail.com",
+      "contact": "5467890654",
+      "gender": "Male"
+    },
+    {
+      "id": "c582",
+      "employeeId": "009",
+      "employeeName": "Siddharth",
+      "qualification": "M.Tech",
+      "email": "siddharth@gmail.com",
+      "contact": "7869056894",
+      "gender": "Male"
+    }
+  ]
+}

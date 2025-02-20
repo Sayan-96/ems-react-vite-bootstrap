@@ -1,0 +1,9 @@
+/* Header and Footer Links Hover Effects */
+.navbar-nav .nav-link:hover {
+  color: #ffd700 !important; /* Gold color on hover */
+}
+
+footer a:hover {
+  text-decoration: underline;
+  color: #ffd700; /* Gold color for footer links on hover */
+}
